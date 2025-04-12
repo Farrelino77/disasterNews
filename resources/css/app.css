@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@source "../views";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@theme {
+    --color-primary: #CCBDAA;
+    --color-second: #FAF9F0;
+    --color-accent: #4E6C50;
+  }
